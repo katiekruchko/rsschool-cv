@@ -1,10 +1,12 @@
-﻿ # Kate Kruchko
+﻿
+# Kate Kruchko
 *Junior Developer*
 
 
 ## Contact information
 
 **tel:**  (+375 44) 584-88-23 
+
 **e-mail:** dkkruchko@gmail.com
 
 
