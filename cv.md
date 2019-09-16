@@ -9,6 +9,8 @@
 
 **e-mail:** dkkruchko@gmail.com
 
+**telegram** @katiekruchko
+
 
 ## Summary
 I am an individual entrepreneur (freelancer), my development experience has more than 30 websites. I have experience in communication with clients, design in Photoshop, development, SEO, Google and Yandex ads. 
@@ -47,7 +49,7 @@ However, I understand that it is impossible to know everything. I want to grow a
 
 ## Education
  
-  - BNTU
+ - BNTU
  - Codeacademy, Htmlacademy
  - WEBDEV Summit
 
