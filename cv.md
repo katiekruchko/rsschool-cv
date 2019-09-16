@@ -9,7 +9,7 @@
 
 **e-mail:** dkkruchko@gmail.com
 
-**telegram** @katiekruchko
+**telegram:** @katiekruchko
 
 
 ## Summary
